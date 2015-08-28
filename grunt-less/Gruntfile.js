@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 			dist: {
 				options: {
 					cleancss: true,
-					compress: false
+					compress: false	// make it `true` to compress the resulted css
 				},
 				expand: false,
 				src: 'style.less',
