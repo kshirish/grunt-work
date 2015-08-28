@@ -1,0 +1,19 @@
+{
+  "name": "clean",
+  "version": "1.0.0",
+  "description": "clean folders",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "clean"
+  ],
+  "author": "kshirish",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0"
+  }
+}
