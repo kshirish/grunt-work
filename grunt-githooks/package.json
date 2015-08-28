@@ -1,0 +1,19 @@
+{
+  "name": "githooks",
+  "version": "1.0.0",
+  "description": "bind grunt to git",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "githooks"
+  ],
+  "author": "kshirish",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-githooks": "^0.3.1"
+  }
+}
