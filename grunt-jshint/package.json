@@ -1,0 +1,19 @@
+{
+  "name": "jshint",
+  "version": "1.0.0",
+  "description": "validate files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "jshint"
+  ],
+  "author": "kshirish",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  }
+}

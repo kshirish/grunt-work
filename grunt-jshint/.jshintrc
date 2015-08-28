@@ -1,0 +1,19 @@
+{
+	// See here https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+
+    "globals": {},			// additional predefined global variables
+    "laxcomma": true,       // Suppresses warnings about comma-first coding style
+    "quotmark": "single",   // Use single quotes
+    "browser": true,        // Defines globals exposed by modern browsers
+    "jquery": true,         // Defines globals exposed by the jQuery
+    "indent": 4,            // Enforces specific tab width
+    "eqeqeq": true,         // Prohibits the use of == and != in favor of === and !==
+    "plusplus": true,      	// Prohibits use of `++` & `--`
+    "noempty": true,        // Warns when you have an empty block
+    "unused": "vars",       // Warns about unused variables
+    "undef": true,          // Prohibits the use of explicitly undeclared variables
+    "curly": true,          // Always put curly braces around blocks in loops and conditionals
+    "trailing": false,      // Error to leave a trailing whitespace
+    "white": false,         // Checks code against http://www.jshint.com/docs/options/#white
+    "nomen": false          // This option disallows the use of dangling _ in variables.
+}
